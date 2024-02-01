@@ -17,7 +17,7 @@ FAVOURITE DISH: Momo with Coke
 
 RELIGION: Buddhist
 
-![monastery_image](monastery.jpg)
+![monastery_image](images/monastery.jpg)
 
 ## More About Me
 
