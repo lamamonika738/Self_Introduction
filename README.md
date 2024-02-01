@@ -11,9 +11,13 @@ FROM: NEPAL
 
 HOBBIES: Playing guitar, Travelling
 
-FAVOURITE DISH: Momo Coke
+FAVOURITE DISH: Momo with Coke
+
+![momo_image](images/momo.jpg)
 
 RELIGION: Buddhist
+
+![monastery_image](monastery.jpg)
 
 ## More About Me
 
